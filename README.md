@@ -9,7 +9,7 @@ This is a simple program demonstrating methods in the SuperClass and SubClass cl
 Using terminal on Mac:
 
 ```
-$ cd Sub/Super-Class
+$ cd Sub-Super-Class
 $ javac ShowValueDemo.java
 $ java ShowValueDemo
 ```
